@@ -1,0 +1,80 @@
+/* <!-- Matthew Lee 4/10/2022 20:02 --> */
+ul {
+    list-style-type: none;
+    margin: auto;
+    padding: auto;
+    overflow: hidden;
+    background-color: #555555;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: black;
+    font-weight:bold;
+    text-decoration-color: antiquewhite;
+  }
+  .custom-navbar-text {
+      float:left;
+        color:white;
+        text-align:center;
+        padding: 15px 20px;
+        text-decoration:none;
+        
+
+  }
+body {
+  background-image:linear-gradient(aliceblue,  #10a3cf);
+}
+.p1 { 
+  text-align:center;
+  font-size:12px;
+  color:#575757
+}
+.center-tableau {
+  margin: auto;
+  max-width: 1000px;
+}
+h2 {
+  background-color:Black;
+  color:aliceblue;
+  text-align:center;
+  max-width: 500px;
+  margin:auto;  
+}
+.center-nav {
+  text-align:center;
+  color:white;
+  text-align:center;
+ float:left;
+ text-decoration:none;
+}
+.tab {
+  background-color:none;
+  margin:auto; 
+}
+header {
+  text-align: center;
+  color: black;
+  font-size:30px;
+  padding:100px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color:black;
+  margin:none;
+}
+.bold {
+  font-weight:bold;
+  background-color:none;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color:black;
+}
